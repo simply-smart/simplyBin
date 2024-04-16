@@ -1,3 +1,5 @@
+[https://github.com/simply-smart/simplyBin/blob/main/assets/icon_package/128x128.png?raw=true]
+
 # simplyBin
 `simplySMART Configuration Tool`
 
