@@ -160,7 +160,7 @@ goto :eof
 :win_host
     :: Read and show WIN:hosts
     echo.
-    echo ============================================ start-hosts 
+    echo ============================================ start-hosts \\ C:\Windows\System32\drivers\etc\hosts
     echo.
     more C:\Windows\System32\drivers\etc\hosts
     echo.
@@ -203,7 +203,7 @@ goto :eof
 :xampp_vhost
     :: Read and show XAMPP:vhosts
     echo.
-    echo ============================================ start-vhosts
+    echo ============================================ start-vhosts \\ C:\xampp\apache\conf\extra\httpd-vhosts.conf
     echo.
     more C:\xampp\apache\conf\extra\httpd-vhosts.conf
     echo.
